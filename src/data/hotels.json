@@ -1,0 +1,663 @@
+{
+  "hotelGuide": {
+    "title": "The St. Kitts & Nevis Hotel Compass",
+    "summary": "The twin-island nation of St. Kitts and Nevis presents a diverse hospitality landscape, offering distinct experiences tailored to a variety of traveler profiles.",
+    "lastUpdated": "2024-12-19"
+  },
+  "islandCharacteristics": {
+    "stKitts": {
+      "description": "Larger island, home to main international airport and capital Basseterre",
+      "tourism": "Hub for larger, more modern resorts, activity-rich vacation experiences",
+      "beachArea": "Southern peninsula known for developed beaches and resorts",
+      "atmosphere": "Dynamic, activity-oriented vacation destination"
+    },
+    "nevis": {
+      "description": "Accessible by short ferry ride, defined by serene mountainous landscape",
+      "tourism": "Specializes in tranquil, intimate tourism with historic plantation inns",
+      "landmark": "Famous for iconic Nevis Peak",
+      "atmosphere": "Distinctly slower and more relaxed pace of life",
+      "specialty": "Historic plantation inns converted into intimate boutique hotels"
+    }
+  },
+  "accommodationCategories": {
+    "luxuryResorts": {
+      "description": "Large, full-service properties with extensive amenities for comprehensive vacation experience",
+      "characteristics": [
+        "High level of comfort",
+        "Wide array of dining options",
+        "Recreation facilities",
+        "Entertainment options on-site"
+      ],
+      "targetAudience": "Visitors seeking comprehensive and convenient vacation experience"
+    },
+    "historicPlantationInns": {
+      "description": "Predominantly found on Nevis - small, intimate properties with personalized service",
+      "characteristics": [
+        "Often family-owned and operated",
+        "High degree of personalized service",
+        "Deep connection to islands' rich history",
+        "Authentic cultural engagement"
+      ],
+      "targetAudience": "Travelers prioritizing tranquility and authentic cultural engagement"
+    },
+    "budgetFriendlyOptions": {
+      "description": "Guesthouses and apartments providing affordable alternative to resort costs",
+      "characteristics": [
+        "Essential amenities (AC, Wi-Fi)",
+        "Central locations",
+        "Gateway to authentic, locally-driven experience"
+      ],
+      "targetAudience": "Value-conscious travelers seeking independence and local exploration"
+    }
+  },
+  "travelerPersonas": [
+    {
+      "persona": "Family Adventure",
+      "recommendedHotels": ["St. Kitts Marriott Resort & The Royal Beach Casino", "Park Hyatt St. Kitts"],
+      "keyFeatures": ["Extensive kids' programs", "Diverse on-site activities", "Multiple pools", "Pet-friendly options"],
+      "priceRange": "$230 - $900+ per night"
+    },
+    {
+      "persona": "Luxury Seclusion",
+      "recommendedHotels": ["Park Hyatt St. Kitts", "Four Seasons Resort Nevis"],
+      "keyFeatures": ["Exquisite design", "Private pools", "Bespoke experiences", "Stunning natural views"],
+      "priceRange": "$440 - $1000+ per night"
+    },
+    {
+      "persona": "Historic Charm",
+      "recommendedHotels": ["The Hermitage", "Montpelier Plantation & Beach"],
+      "keyFeatures": ["Authentic gingerbread cottages", "Tranquil settings", "Historic architecture", "Personalized service"],
+      "priceRange": "$200 - $800+ per night"
+    },
+    {
+      "persona": "Budget Explorer",
+      "recommendedHotels": ["Seaview Inn", "The Colosseum"],
+      "keyFeatures": ["Central location", "Basic modern amenities", "Extreme affordability"],
+      "priceRange": "$80 - $100+ per night"
+    }
+  ],
+  "luxuryResorts": {
+    "stKittsMarriott": {
+      "name": "St. Kitts Marriott Resort & The Royal Beach Casino",
+      "location": "Frigate Bay Beach",
+      "positioning": "Comprehensive fabulous Caribbean resort experience for all the family",
+      "starRating": 4.5,
+      "locationAdvantages": [
+        "Close to variety of bars, restaurants, and shops",
+        "Near The Strip",
+        "Convenient for off-site exploration"
+      ],
+      "accommodations": {
+        "roomTypes": [
+          "Standard double rooms",
+          "King rooms",
+          "Suites",
+          "Interconnected family rooms"
+        ],
+        "views": ["Garden", "Mountain", "Pool", "Sea"],
+        "features": [
+          "Private balcony or patio options",
+          "Kitchenette (some rooms)",
+          "Microwave and refrigerator (some rooms)"
+        ]
+      },
+      "pricing": {
+        "startingRate": "$231 per night",
+        "averageWeekend": "$334 per night",
+        "peakSeason": "January",
+        "lowSeason": "August"
+      },
+      "amenities": {
+        "pools": [
+          "Large fun pool with swim-up bar",
+          "Adjacent quiet pool for relaxation"
+        ],
+        "spa": "Emerald Mist Spa (full-service)",
+        "fitness": "Fitness center",
+        "casino": "Royal Beach Casino with cocktail lounge",
+        "dining": "Multiple on-site dining options",
+        "parking": "Free parking"
+      },
+      "familyPrograms": {
+        "piratesKidsClub": {
+          "ageRange": "5-12 years",
+          "themedActivities": [
+            "Mystery Monday",
+            "Sports-o-Rama Saturday"
+          ],
+          "facilities": [
+            "Colorful lounge with theater",
+            "Flat-screen television",
+            "Weekly Family Movie Night with free popcorn"
+          ]
+        },
+        "golfProgram": "Kids Golf-4-Free for children 15 and under with paying adult after 3pm",
+        "spaServices": "Children and teen services including hair, nail treatments, and Youth Chair Massages"
+      },
+      "currency": "USD"
+    },
+    "parkHyattStKitts": {
+      "name": "Park Hyatt St. Kitts Christophe Harbour",
+      "location": "Banana Bay",
+      "positioning": "Exceptional 5-star luxury resort with breathtaking views of Nevis",
+      "starRating": 5.0,
+      "designFeatures": [
+        "Architectural excellence",
+        "Pools with views and wall waterfalls",
+        "Bespoke amenities"
+      ],
+      "accommodations": {
+        "roomTypes": ["King rooms", "Queen rooms", "Deluxe rooms"],
+        "upgrades": ["Private plunge pool option"]
+      },
+      "pricing": {
+        "startingRate": "$442 per night",
+        "highEnd": "$740+ per night",
+        "averageWeekend": "$966 per night",
+        "positioning": "Premium luxury property"
+      },
+      "amenities": {
+        "pools": [
+          "Multiple pools",
+          "Outdoor pool",
+          "Plunge pool",
+          "Infinity pool with view"
+        ],
+        "wellness": [
+          "Full-service spa",
+          "Beauty center"
+        ],
+        "activities": [
+          "Topgolf Swing Suite®",
+          "Private cooking classes",
+          "Guided aquatic activities (snorkeling, kayaking)",
+          "Life-size chess and Jenga on beachfront"
+        ],
+        "kidsClub": "Available with art and craft activities"
+      },
+      "familyPrograms": {
+        "complimentaryActivities": [
+          "One activity per day",
+          "Tie Dye sessions",
+          "Jewelry making",
+          "Movie Night Under the Stars",
+          "Lawn games"
+        ]
+      },
+      "location": {
+        "isolation": "30-minute taxi ride from Basseterre, 15-minute ride to Frigate Bay",
+        "benefits": "Sense of seclusion and tranquility",
+        "considerations": "High transportation costs for off-site excursions, premium on-site dining pricing"
+      },
+      "currency": "USD"
+    },
+    "fourSeasonsNevis": {
+      "name": "Four Seasons Resort Nevis",
+      "location": "Pinney's Beach, Nevis",
+      "positioning": "Consistently ranked as one of the best hotels in the Caribbean",
+      "starRating": 5.0,
+      "beachLocation": "Pinney's Beach - considered most beautiful on Nevis",
+      "accommodations": {
+        "rooms": [
+          "Ocean-View Rooms",
+          "Nevis Peak View Rooms"
+        ],
+        "villas": [
+          "Five-Bedroom Mahogany Hill Estate",
+          "Four-Bedroom Pinney's Beach Villa"
+        ]
+      },
+      "pricing": {
+        "startingRate": "$649 per night"
+      },
+      "amenities": {
+        "pools": ["Kids' pool"],
+        "facilities": ["Spa", "Golf course"],
+        "unique": [
+          "Locals land daily catch directly on shore",
+          "Private wellness retreats with tailored fitness activities"
+        ]
+      },
+      "reputation": "Favorite for families, serene and elegant backdrop",
+      "clientele": "Sophisticated and wellness-focused",
+      "currency": "USD"
+    },
+    "koiResort": {
+      "name": "Koi Resort Saint Kitts, Curio Collection by Hilton",
+      "location": "Half Moon Bay, Basseterre",
+      "positioning": "Modern boutique hotel with pet-friendly policy",
+      "starRating": 4.0,
+      "petPolicy": {
+        "allowed": "Up to two small dogs",
+        "deposit": "$50 non-refundable"
+      },
+      "accommodations": {
+        "totalRooms": 102,
+        "roomTypes": [
+          "Two Double Bed Room with Balcony",
+          "Accessible King Bedroom"
+        ]
+      },
+      "pricing": {
+        "estimated": "$149 per night",
+        "note": "Specific pricing not available in source documents"
+      },
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "On-site restaurant",
+        "Outdoor pool",
+        "Fitness center",
+        "Room service",
+        "Concierge services",
+        "Flexible event spaces"
+      ],
+      "locationBenefits": [
+        "5-minute drive from Royal St. Kitts Golf Club",
+        "Less than 10 minutes from St. Kitts Scenic Railway"
+      ],
+      "currency": "USD"
+    }
+  },
+  "historicPlantationInns": {
+    "theHermitage": {
+      "name": "The Hermitage",
+      "location": "Base of Nevis Peak",
+      "positioning": "Unique family-run retreat centered around Caribbean's oldest wooden house",
+      "starRating": 3.5,
+      "uniqueFeatures": [
+        "Caribbean's oldest wooden house as centerpiece",
+        "Rooms cooled by natural trade winds",
+        "Palpable sense of history"
+      ],
+      "accommodations": {
+        "cottageTypes": [
+          "Gingerbread cottages (700-1,284 sq ft)",
+          "Balcony Rooms",
+          "Hillside Rooms"
+        ],
+        "cottageFeatures": [
+          "Kitchenettes",
+          "Spacious porches"
+        ],
+        "suitability": "Couples, families, and groups"
+      },
+      "pricing": {
+        "lowSeason": "$410 - $600 USD",
+        "highSeason": "$510 - $800 USD",
+        "observedRates": "Starting at $175 per night",
+        "seasonalVariation": "Significant seasonal pricing differences"
+      },
+      "amenities": [
+        "Pool",
+        "Restaurant with traditional Nevisian recipes",
+        "Bar",
+        "Wi-Fi",
+        "Babysitting services",
+        "Excursion arrangements"
+      ],
+      "diningExperience": {
+        "style": "Meals prepared by home cooks",
+        "settings": [
+          "Under shade of mango trees",
+          "Candlelit dinner under stars"
+        ],
+        "inspiration": "Traditional Nevisian recipes"
+      },
+      "excursions": [
+        "Botanical Gardens",
+        "Museum of Nevis History"
+      ],
+      "currency": "USD"
+    },
+    "montpelierPlantation": {
+      "name": "Montpelier Plantation & Beach",
+      "location": "750 feet above Caribbean Sea, Nevis",
+      "positioning": "Secluded boutique hotel built around 18th-century sugar plantation",
+      "starRating": 4.9,
+      "historicalSignificance": "Built around 18th-century sugar plantation",
+      "atmosphere": "Tranquil hideaway for privacy and personal service",
+      "accommodations": {
+        "suites": [
+          {
+            "name": "Garden Suite",
+            "features": [
+              "Spacious split-level design",
+              "Farm-raised bamboo flooring",
+              "Private gazebo"
+            ]
+          },
+          {
+            "name": "Tamarind Villa",
+            "features": [
+              "Two-bedroom layout",
+              "High-beamed ceilings",
+              "Plunge pool",
+              "Ocean view"
+            ]
+          }
+        ]
+      },
+      "pricing": {
+        "observed": "$208 per night",
+        "note": "Third-party source pricing"
+      },
+      "uniqueFeatures": {
+        "privateBeach": {
+          "size": "Three acres",
+          "access": "15-minute drive with regular transportation",
+          "amenities": [
+            "Comfortable lounge chairs",
+            "Shaded cabanas",
+            "Beachside bar with barbecue lunches"
+          ]
+        }
+      },
+      "services": [
+        "On-site concierge",
+        "Daily housekeeping",
+        "In-room dining",
+        "Babysitting"
+      ],
+      "currency": "USD"
+    },
+    "nisbetPlantation": {
+      "name": "Nisbet Plantation Beach Club",
+      "location": "Beachfront, Nevis",
+      "positioning": "Caribbean's only historic plantation inn right on the beach",
+      "starRating": "9.4/10 score",
+      "uniqueSelling": "Only historic plantation inn directly on beach",
+      "landscaping": [
+        "Beautifully landscaped tropical gardens",
+        "Palm-lined avenue leading to powdery white sand beach"
+      ],
+      "accommodations": {
+        "totalRooms": 36,
+        "amenities": ["Minibars", "Safes", "Complimentary Wi-Fi"]
+      },
+      "pricing": {
+        "note": "Specific pricing not provided in source documents"
+      },
+      "facilities": [
+        "Full-service spa",
+        "Outdoor pool",
+        "Fitness center",
+        "Outdoor tennis court"
+      ],
+      "dining": {
+        "restaurants": 3,
+        "bars": 2,
+        "features": [
+          "Poolside bar",
+          "Coconuts restaurant with children's menu",
+          "Alfresco dining"
+        ]
+      },
+      "beachActivities": [
+        "Snorkeling",
+        "Parasailing",
+        "Sailing"
+      ],
+      "additionalServices": [
+        "Babysitting (additional charge)"
+      ],
+      "inclusions": [
+        "Free breakfast",
+        "Airport transfer"
+      ],
+      "currency": "USD"
+    }
+  },
+  "budgetFriendlyOptions": {
+    "seaviewInn": {
+      "name": "Seaview Inn",
+      "location": "Heart of Basseterre",
+      "positioning": "Highly affordable accommodation with core amenities",
+      "starRating": 3.0,
+      "accommodations": {
+        "roomTypes": ["Queen", "Standard", "Deluxe"]
+      },
+      "pricing": {
+        "range": "$86 - $97 per night",
+        "highSeason": "December",
+        "lowSeason": "January",
+        "valueProposition": "Significant saving compared to larger resorts"
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Laundry facilities",
+        "On-site restaurant",
+        "Two bars",
+        "Room service"
+      ],
+      "locationAdvantages": [
+        "3-minute walk from Basseterre Cruise Port",
+        "Immediate access to Port Zante",
+        "Close to local shopping",
+        "Ferry to Nevis nearby"
+      ],
+      "valueProposition": "Ideal base for island exploration, cost savings allow higher budget for dining and activities",
+      "currency": "USD"
+    },
+    "theColosseum": {
+      "name": "The Colosseum",
+      "pricing": {
+        "rate": "$81 per night",
+        "positioning": "Extremely low nightly rate"
+      },
+      "amenities": ["Free Wi-Fi", "Air conditioning"]
+    },
+    "goldenGateInn": {
+      "name": "Golden Gate Inn",
+      "amenities": ["Free parking", "Free Wi-Fi"]
+    },
+    "lovelyBeachfrontSuite": {
+      "name": "Lovely Beachfront Suite",
+      "uniqueFeatures": ["Private beach", "On-site water park"],
+      "positioning": "Higher-priced guesthouse with unique amenities"
+    }
+  },
+  "comparativeAnalysis": {
+    "funAndKidFriendly": {
+      "marriottApproach": {
+        "philosophy": "Communal and program-based fun",
+        "activities": [
+          "Scheduled activities (yoga, water polo, dance lessons, bingo)",
+          "Dedicated kids' club with themed days",
+          "Movie nights"
+        ],
+        "atmosphere": "Comprehensive, social, and lively"
+      },
+      "parkHyattApproach": {
+        "philosophy": "Bespoke and exclusive entertainment",
+        "activities": [
+          "Topgolf Swing Suite",
+          "Private cooking classes",
+          "Rum tasting events"
+        ],
+        "justification": "Premium cost justified by exclusivity and uniqueness"
+      },
+      "budgetApproach": {
+        "philosophy": "Freedom to explore",
+        "benefits": "Affordable home base enables spending on local experiences"
+      }
+    },
+    "affordabilityAnalysis": {
+      "highEndResorts": {
+        "characteristics": "High nightly rates but comprehensive experience",
+        "hiddenCosts": "On-site dining and services at extreme premium"
+      },
+      "midTierResorts": {
+        "characteristics": "Balanced value proposition",
+        "advantage": "Location allows off-site exploration to offset high on-site costs"
+      },
+      "budgetOptions": {
+        "characteristics": "Low room rates, central locations",
+        "advantage": "More funds available for local food, activities, and transportation"
+      }
+    }
+  },
+  "locationAnalysis": {
+    "frigateBayArea": {
+      "hotels": ["St. Kitts Marriott", "Timothy Beach Resort"],
+      "advantages": [
+        "Proximity to The Strip",
+        "Local dining and nightlife access",
+        "Dynamic and social experience",
+        "Convenient for off-resort activities"
+      ]
+    },
+    "remoteLuxury": {
+      "hotels": ["Park Hyatt on Banana Bay"],
+      "advantages": [
+        "Seclusion and privacy atmosphere",
+        "Unspoiled beachfront",
+        "Amazing views of Nevis"
+      ],
+      "considerations": [
+        "Expensive taxi rides to town",
+        "Premium on-site dining costs"
+      ]
+    },
+    "nevisPlantations": {
+      "hotels": ["The Hermitage", "Montpelier"],
+      "advantages": [
+        "Tranquility and natural connection",
+        "Deep connection to historical roots",
+        "Serene elevated locations"
+      ]
+    },
+    "basseterre": {
+      "hotels": ["Seaview Inn"],
+      "advantages": [
+        "Urban central hub",
+        "Immediate cruise port access",
+        "Ferry terminal proximity",
+        "Ideal for daily excursions"
+      ]
+    }
+  },
+  "recommendationsByPersona": {
+    "familyAdventure": {
+      "primaryChoice": "St. Kitts Marriott Resort",
+      "reasons": [
+        "Extensive on-site activities",
+        "Dedicated children's club",
+        "Variety of pools",
+        "Proximity to Frigate Bay and entertainment"
+      ]
+    },
+    "luxurySeeker": {
+      "seclusion": "Park Hyatt St. Kitts",
+      "reasons": [
+        "Stunning design",
+        "Private plunge pools",
+        "Curated activities (Topgolf Swing Suite)",
+        "Unique high-end escape"
+      ],
+      "service": "Four Seasons Resort Nevis",
+      "reasons": [
+        "Consistent top performer",
+        "Beachfront location",
+        "Impressive facilities",
+        "Impeccable service"
+      ]
+    },
+    "romanticGetaway": {
+      "primaryChoices": ["The Hermitage", "Montpelier Plantation & Beach"],
+      "reasons": [
+        "Serene intimate experience",
+        "Rich historical setting",
+        "Personalized service",
+        "Quiet atmosphere for reconnection"
+      ]
+    },
+    "budgetExplorer": {
+      "primaryChoice": "Seaview Inn",
+      "reasons": [
+        "Unbeatable affordability",
+        "Central Basseterre location",
+        "Gateway to authentic local experiences",
+        "More budget available for culture, food, and attractions"
+      ]
+    }
+  },
+  "priceComparisonTable": [
+    {
+      "hotel": "Park Hyatt St. Kitts",
+      "priceRange": "$442 - $740+ USD",
+      "highSeason": "February",
+      "lowSeason": "July",
+      "includedAmenities": "Free Wi-Fi",
+      "starRating": 5.0
+    },
+    {
+      "hotel": "Four Seasons Nevis",
+      "priceRange": "$649+ USD",
+      "includedAmenities": "Spa, kids pool, parking",
+      "starRating": 5.0
+    },
+    {
+      "hotel": "St. Kitts Marriott",
+      "priceRange": "$231 - $264+ USD",
+      "highSeason": "January",
+      "lowSeason": "August",
+      "includedAmenities": "Free Wi-Fi, casino, pools, free parking",
+      "starRating": 4.5
+    },
+    {
+      "hotel": "Koi Resort",
+      "priceRange": "$149+ USD",
+      "includedAmenities": "Free parking, Wi-Fi, pet-friendly rooms",
+      "starRating": 4.0
+    },
+    {
+      "hotel": "The Hermitage",
+      "priceRange": "$175 - $285 USD (observed) / $410 - $800 USD (seasonal)",
+      "highSeason": "March",
+      "lowSeason": "May",
+      "includedAmenities": "Free Wi-Fi, parking",
+      "starRating": 3.5
+    },
+    {
+      "hotel": "Montpelier Plantation",
+      "priceRange": "$208+ USD",
+      "includedAmenities": "Spa, parking, Wi-Fi",
+      "starRating": 4.9
+    },
+    {
+      "hotel": "Nisbet Plantation",
+      "priceRange": "Not specified",
+      "includedAmenities": "Free breakfast, airport transfer",
+      "starRating": "9.4/10 score"
+    },
+    {
+      "hotel": "Seaview Inn",
+      "priceRange": "$86 - $97 USD",
+      "highSeason": "December",
+      "lowSeason": "January",
+      "includedAmenities": "Free Wi-Fi, AC",
+      "starRating": 3.0
+    }
+  ],
+  "importantConsiderations": {
+    "additionalCosts": [
+      "12% sales tax on accommodation",
+      "Service charges (typically 10-18%)",
+      "Transportation costs for remote properties",
+      "Premium pricing for on-site resort dining"
+    ],
+    "reservationAdvice": [
+      "Highly recommended for formal establishments",
+      "Confirm operating hours for seasonal properties",
+      "Account for full cost including taxes and fees"
+    ],
+    "seasonalFactors": [
+      "High season: December-March",
+      "Low season: August-November",
+      "Hurricane season considerations: June-November",
+      "Some exclusive venues close seasonally (e.g., Stone Barn Aug-Oct)"
+    ]
+  }
+}

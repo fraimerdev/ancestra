@@ -1,0 +1,935 @@
+{
+  "culinaryGuide": {
+    "title": "The Authentic Culinary Scene of St. Kitts: A Guide to Local Eateries",
+    "summary": "The culinary landscape of St. Kitts presents a dual identity: internationally-influenced resort dining and intimate, authentically local family-run establishments sourcing directly from local fishermen and farmers.",
+    "lastUpdated": "2024-12-19"
+  },
+  "nationalDish": {
+    "name": "Salt Fish and Dumplings",
+    "description": "The national dish combination includes stewed saltfish (salted cod) sautéed with vegetables and spices, spicy plantains, coconut dumplings, and seasoned breadfruit.",
+    "components": [
+      "Stewed saltfish (salted cod)",
+      "Spicy plantains", 
+      "Coconut dumplings",
+      "Seasoned breadfruit"
+    ],
+    "servingLocations": ["Ocean Terrace Inn in Basseterre"]
+  },
+  "culinaryTraditions": {
+    "influences": ["African", "British", "Caribbean", "Creole"],
+    "seafoodStaples": ["Mahi-mahi", "Snapper", "Wahoo", "Lobster", "Conch"],
+    "landBasedDishes": ["BBQ ribs", "Chicken", "Goat Water stew"],
+    "streetFood": ["Johnny Cakes", "Roti"],
+    "italFood": {
+      "description": "Vegan and vegetarian culinary tradition favored by Rastafarians",
+      "dishes": ["Rice", "Lentils", "Salad"],
+      "restaurant": "Ital Creations"
+    }
+  },
+  "restaurants": {
+    "localEateries": {
+      "spratNet": {
+        "name": "Sprat Net Bar & Grill",
+        "location": "Entrance to Old Road",
+        "type": "Fisherman's Feast",
+        "motto": "WE ONLY EAT THE ONES WE CATCH",
+        "atmosphere": "Laid-back and communal, picnic-style on long wooden benches",
+        "specialties": [
+          "Freshly grilled fish",
+          "Lobster", 
+          "Spare ribs",
+          "Chicken"
+        ],
+        "sides": ["Corn", "Potato", "Johnny cakes"],
+        "features": [
+          "Live music every Wednesday night",
+          "Adjacent pizza hut (Wednesday-Sunday)",
+          "Cheapest drinks on the island"
+        ],
+        "pricing": {
+          "fullMeal": "$62 USD",
+          "currency": "USD"
+        },
+        "hours": "6pm - 11:30pm most days (evenings only)",
+        "philosophy": "Fresh, locally sourced ingredients with small-batch approach"
+      },
+      "elFredos": {
+        "name": "El Fredo's Restaurant & Bar",
+        "location": "Bay Road, Basseterre",
+        "type": "Local Institution",
+        "atmosphere": "Screened-in porch and open-air dining, aromas of garlic, curry and spices",
+        "menu": {
+          "type": "Daily-changing, affordable menu",
+          "signatures": [
+            "Creole snapper",
+            "Curry conch", 
+            "Garlic shrimp",
+            "Stewed oxtail",
+            "Chicken roti",
+            "Lobster"
+          ],
+          "mealIncludes": ["Green salad", "Fried plantain", "Sweet potato"]
+        },
+        "pricing": {
+          "chickenRoti": "22 EC$",
+          "creoleSnapper": "50 EC$",
+          "garlicConch": "45 EC$",
+          "garlicShrimp": "55 EC$",
+          "stewedOxtail": "55 EC$",
+          "wholeSnapper": "50 EC$",
+          "saltfish": "45 EC$",
+          "lobsterShrimpCombo": "55 EC$",
+          "currency": "EC$"
+        },
+        "hours": "Tuesday-Saturday, 11am-3pm (lunch only)",
+        "reputation": "Widely regarded as local institution, favorite for residents and visitors"
+      },
+      "deFishShack": {
+        "name": "De Fish Shack",
+        "location": "Basseterre",
+        "type": "Fresh Seafood Gem",
+        "atmosphere": "Laid-back with welcoming staff, outdoor seating with breathtaking views and sea breeze",
+        "specialties": [
+          "Daily catch specials",
+          "Grilled fish",
+          "Savory shrimp tacos"
+        ],
+        "features": ["House-made sauces", "Sunset dining"],
+        "hours": "Daily from 6pm (evening only)",
+        "philosophy": "Focus on freshest seafood available"
+      },
+      "arthurs": {
+        "name": "Arthur's Restaurant & Bar",
+        "location": "Black sands of Dieppe Bay",
+        "type": "Ocean-to-Plate Dining",
+        "atmosphere": "Intimate setting where you can literally watch your main course being caught as you eat your starter",
+        "cuisine": "Fusion of local Caribbean flavors and international cuisine",
+        "specialties": [
+          "Fresh fish",
+          "Lobster",
+          "Wahoo",
+          "Coconut dumplings",
+          "Goat curry"
+        ],
+        "features": ["Happy chef", "Excellent service", "Direct ocean-to-kitchen link"],
+        "hours": "12pm - 9pm (lunch and dinner)",
+        "uniqueness": "Most connected to surroundings possible"
+      },
+      "mrsMoores": {
+        "name": "Mrs. Moore's Eat to Live Snackette",
+        "location": "Small converted shipping container in Port Zante, near National Museum",
+        "type": "Island Institution",
+        "owner": "Mrs. Moore (29+ years operation)",
+        "operation": "One-woman operation - personally cooking, cleaning, serving",
+        "specialty": "Legendary Johnny Cakes",
+        "menu": {
+          "johnyCakeFillingsSweet": ["Sweet versions available"],
+          "johnyCakeFillingSavory": ["Fried fish", "Chicken", "Saltfish"],
+          "otherDishes": ["Conch curry", "Stewed turkey wings"]
+        },
+        "pricing": {
+          "filledJohnyCake": "$4 USD",
+          "currency": "USD"
+        },
+        "hours": "Monday-Friday, 10am-6pm",
+        "reputation": "True island institution, lunch-time favorite for locals"
+      }
+    },
+    "premiumDining": {
+      "marshalls": {
+        "name": "Marshall's",
+        "location": "Fort Tyson",
+        "type": "Island Institution Fine Dining",
+        "established": "1996",
+        "cuisine": "Elegant blend of local ingredients with international cuisine",
+        "features": ["Breathtaking Caribbean view"],
+        "menu": {
+          "appetizers": [
+            {
+              "name": "Crab Cake",
+              "description": "Seasoned crab meat baked and served with remoulade sauce"
+            },
+            {
+              "name": "Chick Peas Cake", 
+              "description": "Served with roasted red pepper sauce",
+              "price": "32.50 EC$"
+            },
+            {
+              "name": "Cracked Conch",
+              "description": "Fried conch served with tartar sauce"
+            },
+            {
+              "name": "Prosciutto & Melon",
+              "description": "Served with Wasabi Aioli"
+            }
+          ],
+          "salads": [
+            {
+              "name": "Tomato & Mozzarella",
+              "description": "Served with Basil Oil",
+              "price": "39.00 EC$"
+            },
+            {
+              "name": "Grilled Shrimp with Green Papaya Salad",
+              "description": "Served with Thai dressing", 
+              "price": "39.00 EC$"
+            }
+          ],
+          "entrees": [
+            {
+              "name": "Grilled Fillet of Steak (8oz)",
+              "description": "Served with peppercorn sauce",
+              "price": "145.00 EC$"
+            },
+            {
+              "name": "Grilled Ribeye Steak",
+              "description": "Served with peppercorn sauce",
+              "price": "130.00 EC$"
+            },
+            {
+              "name": "Grilled Scottish Salmon",
+              "description": "With creamy lemon beurre blanc",
+              "price": "90.00 EC$"
+            },
+            {
+              "name": "Pan Seared Chilean Seabass",
+              "description": "Served with lemon cilantro",
+              "price": "140.00 EC$"
+            },
+            {
+              "name": "Grilled Lobster",
+              "description": "Kittitian lobster tail with lobster cream sauce",
+              "price": "125.00 EC$"
+            },
+            {
+              "name": "Mix Grill",
+              "description": "Combination of half lobster tail, lamb chop, sirloin steak, and shrimp",
+              "price": "135.00 EC$"
+            }
+          ],
+          "pastas": [
+            {
+              "name": "Shrimp Veracruz",
+              "description": "Shrimp sautéed with peppers, onions, garlic, and fresh tomato, served with fettuccine",
+              "price": "95.00 EC$"
+            },
+            {
+              "name": "Chicken Penne Rose Pasta",
+              "description": "Grilled chicken breast in a pink sauce",
+              "price": "70.00 EC$"
+            }
+          ]
+        },
+        "priceRange": "$24-54 USD",
+        "currency": "EC$",
+        "reputation": "Long-standing reputation since 2006, must-visit for fine dining"
+      },
+      "spiceMill": {
+        "name": "Spice Mill Restaurant",
+        "location": "Cockleshell Bay",
+        "type": "Modern Caribbean Cuisine",
+        "atmosphere": "Bohemian-chic ambiance, day-time beach club to elegant open-air restaurant by night",
+        "cuisine": "Blend of Caribbean and global flavors",
+        "menu": {
+          "lunch": {
+            "appetizers": [
+              {
+                "name": "Local Conch Fritters",
+                "price": "$12"
+              },
+              {
+                "name": "Thai Chicken Salad",
+                "price": "$11"
+              },
+              {
+                "name": "Jerk Chicken Nachos",
+                "price": "$14"
+              }
+            ],
+            "mainCourses": [
+              {
+                "name": "Grilled Mahi Mahi",
+                "description": "Served with lemon butter sauce, West Indian rice, and vegetables",
+                "price": "$29"
+              },
+              {
+                "name": "Baked Whole Lobster Tail",
+                "description": "Served with curry butter, West Indian rice, and vegetables",
+                "price": "$40"
+              },
+              {
+                "name": "Jerk Chicken Lunch",
+                "description": "Served with West Indian rice, and vegetables",
+                "price": "$24"
+              },
+              {
+                "name": "Lobster & Shrimp Fettuccini",
+                "price": "$36"
+              }
+            ]
+          },
+          "dinner": {
+            "appetizersAndSoups": [
+              {
+                "name": "Spicy Lobster, Crab and Conch Cake",
+                "price": "$16"
+              },
+              {
+                "name": "Seafood Bisque",
+                "price": "$12"
+              }
+            ],
+            "mainCourses": [
+              {
+                "name": "Grilled Fresh Catch of the Day",
+                "price": "$36"
+              },
+              {
+                "name": "Crab and Panko Crusted Snapper Fillet",
+                "price": "$38"
+              },
+              {
+                "name": "Baked Whole Spiny Lobster",
+                "price": "$54"
+              },
+              {
+                "name": "Lobster Linguine Pasta",
+                "price": "$42"
+              },
+              {
+                "name": "12 oz Grilled Spice Rubbed Rib Eye Steak",
+                "price": "$44"
+              },
+              {
+                "name": "Slow Roasted Jerk Pork",
+                "price": "$36"
+              }
+            ]
+          }
+        },
+        "priceRange": "$24-54 USD",
+        "currency": "USD",
+        "businessModel": "Tiered pricing strategy for different consumer needs throughout the day"
+      },
+      "carambolaBeach": {
+        "name": "Carambola Beach Club",
+        "location": "Friar's Bay",
+        "type": "Dual Experience - Casual Lunch, Elegant Dinner",
+        "atmosphere": "Laid-back casual lunch transitioning to elegant fine dining evening",
+        "menu": {
+          "lunch": {
+            "entrees": [
+              {
+                "name": "Catch of the Day",
+                "price": "$35.25"
+              },
+              {
+                "name": "Chicken Wings (6 wings)",
+                "price": "$22.13"
+              },
+              {
+                "name": "BBQ Baby Back Ribs",
+                "price": "$27.05"
+              }
+            ],
+            "sandwichesAndBurgers": [
+              {
+                "name": "Caribbean Spiny Lobster Sandwich",
+                "price": "$35.25"
+              },
+              {
+                "name": "Traditional Beef Burger",
+                "price": "$22.13"
+              },
+              {
+                "name": "Fried Chicken Burger",
+                "price": "$27.05"
+              }
+            ],
+            "pizzas": [
+              {
+                "name": "Cheese",
+                "price": "$19.67"
+              },
+              {
+                "name": "Meat Lovers",
+                "price": "$25.41"
+              },
+              {
+                "name": "Jerked Lobster",
+                "price": "$35.25"
+              }
+            ]
+          },
+          "dinner": {
+            "appetizers": [
+              {
+                "name": "Kittitian Conch Fritters",
+                "price": "$15"
+              },
+              {
+                "name": "Fried Calamari",
+                "price": "$25"
+              },
+              {
+                "name": "Grilled Shrimp",
+                "price": "$18"
+              }
+            ],
+            "entrees": [
+              {
+                "name": "Grilled Rack of Lamb",
+                "price": "$42"
+              },
+              {
+                "name": "Beef Tenderloin",
+                "price": "$40"
+              },
+              {
+                "name": "Grilled Caribbean Spiny Lobster Tail",
+                "price": "Market Price"
+              },
+              {
+                "name": "Pan Seared Sea Bass",
+                "price": "$48"
+              },
+              {
+                "name": "Mahi-Mahi",
+                "price": "$32"
+              },
+              {
+                "name": "Caribbean Spiny Lobster Tail with Rack of Lamb or Beef Tenderloin",
+                "price": "$50"
+              }
+            ]
+          }
+        },
+        "features": ["Accepts BitcoinCash"],
+        "charges": "10% service charge and 12% tax",
+        "currency": "USD",
+        "priceRange": "$18-50 USD"
+      },
+      "saltPlage": {
+        "name": "Salt Plage",
+        "location": "Christophe Harbour",
+        "type": "Quintessential Sunset Spot",
+        "atmosphere": "Sophisticated, high-end atmosphere, quintessential sunset location",
+        "menu": {
+          "lightBites": [
+            {
+              "name": "Housemade Plantain Chips",
+              "price": "$8"
+            },
+            {
+              "name": "Mahi Mahi Ceviche Bowl",
+              "price": "$15"
+            },
+            {
+              "name": "BBQ Jerk Chicken Wings",
+              "price": "$13"
+            },
+            {
+              "name": "Crispy Fish Tacos",
+              "price": "$20"
+            }
+          ],
+          "heavyBites": [
+            {
+              "name": "Grilled Mahi Mahi",
+              "price": "$20"
+            },
+            {
+              "name": "8oz Striploin",
+              "price": "$30"
+            },
+            {
+              "name": "Chimichurri Lamb Lollipops",
+              "price": "$26"
+            }
+          ],
+          "burgers": [
+            {
+              "name": "Whitehouse Bay Fish Burger",
+              "price": "$20"
+            },
+            {
+              "name": "The \"Sunset\" Beef Burger",
+              "price": "$22"
+            }
+          ]
+        },
+        "priceRange": "$20-30 USD",
+        "currency": "USD",
+        "concept": "Social, shared dining experience where ambiance and cocktails are central"
+      }
+    },
+    "resortDining": {
+      "parkHyattChristopheHarbour": {
+        "name": "Park Hyatt Christophe Harbour",
+        "type": "Luxury Resort Dining",
+        "restaurants": {
+          "stoneBarn": {
+            "name": "Stone Barn",
+            "type": "Premier Fine Dining",
+            "features": ["Adults-only", "Open hearth cooking", "Resort Elegance dress code"],
+            "seasonalClosure": "August 9 to October 4, 2025",
+            "pricing": "Not publicly available (High Tier)",
+            "exclusivity": "Highly exclusive with seasonally-changing menu"
+          },
+          "greatHouse": {
+            "name": "Great House",
+            "type": "Luxurious All-Day Dining",
+            "menu": [
+              {
+                "name": "Breakfast Buffet",
+                "price": "$42 per person"
+              },
+              {
+                "name": "Mixed Seafood Paella",
+                "description": "Huge vat for sharing",
+                "price": "$78"
+              },
+              {
+                "name": "Caribbean Sunset Barbecue",
+                "price": "$55 per person"
+              }
+            ],
+            "currency": "USD"
+          },
+          "fishermansVillage": {
+            "name": "Fisherman's Village",
+            "type": "Casual Oceanfront Dining",
+            "menu": {
+              "lunch": [
+                {
+                  "name": "Cracked Conch",
+                  "price": "$18"
+                },
+                {
+                  "name": "Mahi Mahi Ceviche Bowl",
+                  "price": "$15"
+                },
+                {
+                  "name": "Jerked Spiced Chicken Wings",
+                  "price": "$13"
+                },
+                {
+                  "name": "Grilled Mahi Mahi Sandwich",
+                  "price": "$20"
+                }
+              ],
+              "dinner": [
+                {
+                  "name": "Charred Octopus",
+                  "price": "$18"
+                },
+                {
+                  "name": "Grilled Steak & Red Onion Skewers",
+                  "price": "$23"
+                },
+                {
+                  "name": "Caribbean Prawn Curry",
+                  "price": "$41"
+                },
+                {
+                  "name": "Lobster Tagliatelle",
+                  "price": "$38"
+                }
+              ]
+            },
+            "currency": "USD",
+            "charges": "Subject to tax and service charges"
+          }
+        }
+      },
+      "stKittsMarriott": {
+        "name": "St. Kitts Marriott Resort",
+        "type": "Diverse High-End Resort Portfolio",
+        "restaurants": {
+          "fireSteakSeafood": {
+            "name": "Fire Steak & Seafood",
+            "type": "New-Style Steakhouse",
+            "specialties": ["Highest-quality dry-aged steaks", "Fresh seafood variety"],
+            "atmosphere": "Sophisticated and inviting, city-style steakhouse",
+            "pricing": "Not publicly available (Premium Tier)"
+          },
+          "bohemiaBeach": {
+            "name": "Bohemia Beach Pool Bar & Grille",
+            "type": "Casual Poolside",
+            "menu": [
+              {
+                "name": "House Garden Salad",
+                "price": "20.00 EC$"
+              },
+              {
+                "name": "House Garden Salad with Chicken",
+                "price": "30.00 EC$"
+              },
+              {
+                "name": "Jalapeño Bombers",
+                "price": "15.00 EC$"
+              },
+              {
+                "name": "Boozies Wings (6 pcs)",
+                "price": "17.00 EC$"
+              },
+              {
+                "name": "New York Striploin (10oz)",
+                "price": "80.00 EC$"
+              },
+              {
+                "name": "Creole Snapper (whole)",
+                "price": "65.00 EC$"
+              },
+              {
+                "name": "Grilled Mahi Mahi",
+                "price": "60.00 EC$"
+              },
+              {
+                "name": "Boozies Chicken Pasta",
+                "price": "50.00 EC$"
+              },
+              {
+                "name": "Marriott Burger with spiced sweet potato fries",
+                "price": "54 EC$ / $20 USD"
+              }
+            ],
+            "currency": "EC$"
+          },
+          "calypso": {
+            "name": "Calypso Restaurant",
+            "type": "Family-Friendly All-Day Dining",
+            "menu": {
+              "appetizers": [
+                {
+                  "name": "Chicken Wings (10 pc)",
+                  "price": "$16.95"
+                },
+                {
+                  "name": "Conch Fritters",
+                  "price": "$10.95"
+                },
+                {
+                  "name": "Stuffed Mushrooms",
+                  "price": "$9.95"
+                },
+                {
+                  "name": "Grilled Conch",
+                  "price": "Market Price"
+                }
+              ],
+              "mainCourses": [
+                {
+                  "name": "Fresh Fish",
+                  "price": "Market Price"
+                },
+                {
+                  "name": "Grilled or Fried Shrimp",
+                  "price": "$22.95"
+                },
+                {
+                  "name": "Lobster Tails",
+                  "price": "Market Price"
+                },
+                {
+                  "name": "Calypso Combo",
+                  "price": "Market Price"
+                },
+                {
+                  "name": "Surf and Turf",
+                  "price": "Market Price"
+                }
+              ]
+            },
+            "currency": "USD"
+          }
+        }
+      }
+    },
+    "casualDining": {
+      "reggaeBeach": {
+        "name": "Reggae Beach Bar & Grill",
+        "location": "Cockleshell Bay",
+        "type": "Lively Beach Bar",
+        "menu": {
+          "appetizers": [
+            {
+              "name": "Caribbean Conch Chowder",
+              "price": "18.00 EC$ / $7.00 USD"
+            },
+            {
+              "name": "Conch Fritters",
+              "price": "26.50 EC$ / $10.00 USD"
+            },
+            {
+              "name": "Coconut Shrimp",
+              "price": "26.50 EC$ / $10.00 USD"
+            }
+          ],
+          "sandwiches": [
+            {
+              "name": "Lobster Sandwich",
+              "price": "45.00 EC$ / $17.00 USD"
+            },
+            {
+              "name": "Beef Burger",
+              "price": "31.00 EC$ / $11.50 USD"
+            },
+            {
+              "name": "Grilled Mahi Mahi Sandwich",
+              "price": "45.00 EC$ / $17.00 USD"
+            }
+          ],
+          "entrees": [
+            {
+              "name": "Fresh Grilled Island Fish",
+              "price": "51.00 EC$ / $19.50 USD"
+            },
+            {
+              "name": "Jumbo Tiger Shrimp",
+              "price": "61.00 EC$ / $23.00 USD"
+            },
+            {
+              "name": "Grilled Lobster",
+              "price": "99.00 EC$ / $37.50 USD"
+            },
+            {
+              "name": "Baby Back Ribs",
+              "price": "45.00 EC$ / $17.00 USD"
+            }
+          ],
+          "buffet": {
+            "name": "$50 Dinner Buffet",
+            "includes": ["Lobster", "Chicken", "Shrimp"],
+            "price": "$50 USD"
+          }
+        },
+        "currency": "EC$ and USD"
+      },
+      "patsys": {
+        "name": "Patsy's",
+        "location": "The Strip, Frigate Bay",
+        "type": "Family-Run Spot",
+        "menu": {
+          "offTheGrill": [
+            {
+              "name": "Salmon Meal",
+              "description": "Served with rice and peas, macaroni pie, vegetables, and plantains",
+              "price": "$65.00"
+            },
+            {
+              "name": "Grilled Grouper",
+              "description": "Served with jasmine rice, vegetables, and plantains",
+              "price": "$45.00"
+            },
+            {
+              "name": "Patsy's Famous BBQ Ribs",
+              "price": "$40.00"
+            }
+          ],
+          "smallBites": [
+            {
+              "name": "Wings (8 pcs)",
+              "price": "$20.00"
+            },
+            {
+              "name": "Fish Sticks",
+              "price": "$25.00"
+            }
+          ]
+        },
+        "currency": "USD"
+      },
+      "serendipity": {
+        "name": "Serendipity",
+        "type": "Fine-Dining Gem",
+        "specialties": ["Fresh fish", "International cuisine", "Seafood focus"],
+        "menu": [
+          {
+            "name": "Panko Breaded Shrimps & Fish Goujons",
+            "price": "59.00 EC$ / $22.26 USD"
+          },
+          {
+            "name": "Grilled Garlic Shrimp",
+            "price": "72.00 EC$ / $27.16 USD"
+          },
+          {
+            "name": "Steamed Fillet of Grouper",
+            "price": "65.00 EC$ / $24.52 USD"
+          },
+          {
+            "name": "Fillet of Salmon, Grilled, Blackened, or Pan Fried",
+            "price": "90.00 EC$ / $33.96 USD"
+          },
+          {
+            "name": "Seafood Pasta",
+            "price": "72.00 EC$ / $27.16 USD"
+          }
+        ],
+        "currency": "EC$ and USD"
+      }
+    }
+  },
+  "diningTiers": {
+    "tier1": {
+      "name": "Formal Fine Dining",
+      "description": "Exclusive resort-based establishments with Resort Elegance dress code and highly curated, adult-only experiences",
+      "examples": ["Stone Barn at Park Hyatt"],
+      "priceRange": "Premium Tier",
+      "characteristics": ["Seasonal closures", "Curated menus", "Adults-only", "Dress codes"]
+    },
+    "tier2": {
+      "name": "Upscale & Atmospheric",
+      "description": "Sophisticated beachside restaurants combining gourmet cuisine with chic, relaxed atmosphere",
+      "examples": ["Spice Mill", "Salt Plage", "Marshall's"],
+      "priceRange": "$25-55 USD",
+      "characteristics": ["Sunset views", "Inventive menus", "Beach settings", "Cocktail focused"]
+    },
+    "tier3": {
+      "name": "Upscale Casual",
+      "description": "Well-known beach bars with elevated food offerings, serving premium ingredients in lively, informal settings",
+      "examples": ["Carambola Beach Club", "Reggae Beach Bar & Grill"],
+      "priceRange": "$17-50 USD",
+      "characteristics": ["Lobster and fresh catch", "Beach bar atmosphere", "Casual dress"]
+    }
+  },
+  "paymentAndPricing": {
+    "currency": {
+      "local": "Eastern Caribbean Dollar (EC$)",
+      "accepted": ["EC$", "USD"],
+      "exchangeNote": "US dollars widely accepted, menus often list both currencies"
+    },
+    "additionalCharges": {
+      "salesTax": "12%",
+      "serviceCharge": "10-18%",
+      "totalIncrease": "Over 20% added to menu prices"
+    },
+    "economicBaseline": {
+      "midRangeMealForTwo": "EC$250",
+      "inexpensiveMealAverage": "EC$55"
+    },
+    "valueExamples": [
+      {
+        "item": "Stuffed Johnny Cake (Mrs. Moore's)",
+        "price": "$4 USD"
+      },
+      {
+        "item": "Chicken Roti (El Fredo's)",
+        "price": "22 EC$"
+      }
+    ]
+  },
+  "diningEtiquette": {
+    "unwrittenRules": [
+      "Accept slower, more deliberate pace of life - 'rush slowly'",
+      "Limited hours are guarantee of freshness, not inconvenience",
+      "Engage with proprietors for knowledge about craft and local area"
+    ],
+    "reservations": {
+      "recommended": ["Marshall's", "Serendipity"],
+      "note": "Confirm operating hours as some venues subject to seasonal closures"
+    },
+    "operatingPatterns": {
+      "lunchOnly": ["El Fredo's", "Mrs. Moore's"],
+      "eveningOnly": ["Sprat Net", "De Fish Shack"],
+      "dualService": ["Arthur's"]
+    }
+  },
+  "recommendations": {
+    "bbqEnthusiast": {
+      "primary": "Sprat Net for BBQ ribs and live music nights",
+      "alternative": "Patsy's family-run BBQ on The Strip"
+    },
+    "seafoodPurist": {
+      "premier": "Arthur's on Dieppe Bay for ocean-to-plate experience",
+      "dinnerOption": "De Fish Shack for focused seafood menu and sunset dining"
+    },
+    "cultureSeeker": {
+      "mustVisit": "Mrs. Moore's Eat to Live Snackette for island institution experience",
+      "veganOption": "Ital Creations for Rastafarian culinary tradition"
+    },
+    "specialOccasions": {
+      "ultimate": "Stone Barn at Park Hyatt for Resort Elegance experience",
+      "romantic": "Marshall's for legendary views and long-standing reputation",
+      "sunset": "Salt Plage for quintessential sunset dining with cocktails"
+    }
+  },
+  "localFoodEcosystem": {
+    "farmersMarkets": {
+      "locations": ["Ross University", "Near Basseterre port"],
+      "offerings": ["Fresh vegetables", "Eggs", "Meat from local producers"],
+      "concept": "Farm-to-table as practical daily reality, not trendy slogan"
+    },
+    "streetVendors": {
+      "availability": "Mobile food vendors throughout island",
+      "tours": {
+        "guides": ["Royston", "Leo"],
+        "description": "Food tours sampling local fare at various vendors"
+      }
+    },
+    "stripDining": {
+      "location": "Frigate Bay Strip",
+      "mix": "Large beach clubs alongside smaller family-run food shacks",
+      "familyRun": ["Patsy's", "Mr. X's Shiggidy Shack"],
+      "note": "Discerning visitors can find genuine local gems amid commercial establishments"
+    }
+  },
+  "priceComparisonTable": {
+    "restaurants": [
+      {
+        "name": "Carambola Beach Club",
+        "cuisine": "Caribbean, Fusion",
+        "priceRange": "$32-50+ USD (Dinner)",
+        "category": "Premium"
+      },
+      {
+        "name": "Marshall's",
+        "cuisine": "International, Fine Dining", 
+        "priceRange": "$24-54 USD",
+        "category": "Premium"
+      },
+      {
+        "name": "Spice Mill",
+        "cuisine": "Caribbean Fusion",
+        "priceRange": "$24-54 USD",
+        "category": "Premium"
+      },
+      {
+        "name": "Serendipity",
+        "cuisine": "International, Seafood",
+        "priceRange": "$22-34 USD",
+        "category": "Upscale"
+      },
+      {
+        "name": "Salt Plage",
+        "cuisine": "Caribbean, Lounge Bites",
+        "priceRange": "$20-30 USD",
+        "category": "Upscale"
+      },
+      {
+        "name": "Reggae Beach Bar & Grill",
+        "cuisine": "Seafood, BBQ",
+        "priceRange": "$17-37.50 USD",
+        "category": "Casual"
+      },
+      {
+        "name": "Patsy's",
+        "cuisine": "BBQ, Seafood",
+        "priceRange": "$40-65 USD",
+        "category": "Casual"
+      },
+      {
+        "name": "El Fredo's",
+        "cuisine": "Local Caribbean",
+        "priceRange": "22-55 EC$",
+        "category": "Local"
+      },
+      {
+        "name": "Mrs. Moore's",
+        "cuisine": "Street Food",
+        "priceRange": "$4 USD",
+        "category": "Local"
+      }
+    ]
+  }
+}

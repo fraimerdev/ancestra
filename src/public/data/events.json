@@ -1,0 +1,138 @@
+{
+  "annualFestivals": {
+    "sugarMas": {
+      "name": "Sugar Mas",
+      "description": "St. Kitts & Nevis National Carnival featuring six weeks of masquerade and street carnival celebrating cultural heritage.",
+      "dates": {
+        "2025": "December 23, 2025 - January 3, 2026",
+        "2026": "December 22, 2026 - January 2, 2027"
+      },
+      "duration": "December 23, 2025 - January 3, 2026",
+      "keyEvents": [
+        "J'ouvert Morning Experience (December 26)",
+        "National Junior Carnival Parade (December 28)", 
+        "Grand Carnival Parades (January 1-2)"
+      ],
+      "significance": "Celebrates freedom, creativity, and community identity rooted in post-slavery era"
+    },
+    "nevisCulturama": {
+      "name": "Nevis Culturama Festival",
+      "description": "Nevis's premier arts and culture festival, celebrating Nevisian heritage through music, dance, and colorful parades.",
+      "timing": "annually from late July to early August",
+      "dates": {
+        "2025": "July 24 - August 5, 2025",
+        "2026": "August 3 - August 4, 2026 (Culturama Day)"
+      },
+      "purpose": "preserve cultural heritage through music, dance, and parades",
+      "keyEvents": [
+        "Junior Cultural Street Parade (designed for families)",
+        "Folk competitions (storytelling, craft demonstrations, cooking contests)",
+        "Traditional music and dance performances"
+      ]
+    }
+  },
+  "culinaryEvents": {
+    "restaurantWeek": {
+      "name": "St. Kitts and Nevis Restaurant Week",
+      "description": "A 10-day culinary celebration featuring a theme ingredient.",
+      "dates": {
+        "2025": {
+          "period": "July 17-27, 2025",
+          "themeIngredient": "tamarind"
+        }
+      },
+      "keyEvents": [
+        "St. Kitts Grill Fest (July 26, FREE admission, family-friendly grilling competition)",
+        "Taste at Twilight (July 27, ticketed fine dining experience)",
+        "Tamarind Brunch (special themed brunch events)",
+        "Charity dinners and special chef collaborations"
+      ],
+      "pricingTiers": {
+        "luxury": "$60 USD",
+        "upscale": "$40 USD", 
+        "casual": "$20 USD or less"
+      }
+    },
+    "nevisMangoFestival": {
+      "name": "Nevis Mango Festival",
+      "description": "Celebrates the island's beloved mango fruit with tastings, cocktail competitions, and culinary showcases.",
+      "dates": {
+        "2026": "July 3-5, 2026"
+      },
+      "events": [
+        "Cooking masterclass with celebrity chef",
+        "Mango Mania activities", 
+        "Pinney's Beach Bar Crawl",
+        "Passport Food Tour sampling mango-infused dishes",
+        "For the Love of Mangoes event with cooking competition and concert"
+      ],
+      "specialOffers": "Children under 12 attend free on Sunday"
+    }
+  },
+  "musicFestivals": {
+    "stKittsMusicFestival": {
+      "name": "St. Kitts Music Festival",
+      "description": "Premier Caribbean music event featuring international artists and local talent.",
+      "dates": {
+        "2025": "June 26-28, 2025"
+      },
+      "location": "Warner Park Stadium, Basseterre",
+      "venues": [
+        "Kim Collins Athletic Stadium",
+        "Warner Park",
+        "Multiple outdoor stages"
+      ],
+      "genres": [
+        "Soca",
+        "Dancehall", 
+        "Reggae",
+        "R&B",
+        "Afrobeat",
+        "Calypso",
+        "Hip-Hop",
+        "Gospel"
+      ],
+      "headliners": {
+        "2025": [
+          "Jennifer Hudson",
+          "Local Caribbean artists"
+        ]
+      },
+      "atmosphere": "Family-friendly festival with food vendors, craft booths, cultural displays",
+      "tickets": {
+        "types": ["Multi-day passes", "Single-day options"],
+        "economicImpact": "Major economic driver attracting visitors region-wide"
+      }
+    }
+  },
+  "sportingEvents": {
+    "nevisMarathon": {
+      "name": "Nevis Marathon & Running Festival",
+      "date": "September 6, 2025",
+      "events": [
+        "Full Marathon (26.2 miles)",
+        "Half Marathon (13.1 miles)", 
+        "10K race",
+        "5K race"
+      ],
+      "suitability": "Both experienced runners and families",
+      "location": "Nevis"
+    },
+    "crossChannelSwim": {
+      "name": "Nevis to St. Kitts Cross-Channel Swim",
+      "description": "A challenging 4km swim across 'the Narrows' between the two islands",
+      "distance": "4km",
+      "date": "March 28, 2026",
+      "registrationFee": "$250 USD",
+      "challenge": "Swimming across the channel between St. Kitts and Nevis"
+    },
+    "cricketMatches": {
+      "name": "Caribbean Premier League",
+      "venue": "Warner Park",
+      "dates": {
+        "2025": "August 14-21, 2025"
+      },
+      "description": "Professional cricket matches featuring Caribbean teams"
+    }
+  }
+}

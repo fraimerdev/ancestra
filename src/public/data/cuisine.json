@@ -1,0 +1,161 @@
+{
+  "nationalDish": {
+    "name": "Stewed Saltfish with Spicy Plantains, Coconut Dumplings, and Seasoned Breadfruit",
+    "description": "This hearty meal reflects the islands' history and abundant local ingredients",
+    "components": [
+      "Stewed Saltfish",
+      "Spicy Plantains", 
+      "Coconut Dumplings",
+      "Seasoned Breadfruit"
+    ],
+    "servingLocations": [
+      "El Fredo's Restaurant (Basseterre)",
+      "Ms. Moore's stall (Port Zante)",
+      "Various Fort Street vendors"
+    ]
+  },
+  "restaurants": {
+    "localEateries": {
+      "spratNet": {
+        "name": "Sprat Net",
+        "location": "Old Road Bay",
+        "description": "Beachfront restaurant with stunning ocean views serving fresh seafood and local Caribbean cuisine",
+        "specialties": [
+          "Fresh fish",
+          "Lobster",
+          "Conch fritters", 
+          "Local rum cocktails"
+        ],
+        "hours": "Daily 11:00 AM - 10:00 PM",
+        "pricing": {
+          "range": "Moderate",
+          "fullMeal": "$25-40 USD per person"
+        },
+        "atmosphere": "Casual beachfront dining with live music on weekends"
+      },
+      "elFredos": {
+        "name": "El Fredo's Restaurant",
+        "location": "Bay Road, Basseterre",
+        "description": "Popular local restaurant in the heart of Basseterre serving authentic Kittitian cuisine",
+        "specialties": [
+          "National dish (stewed saltfish)",
+          "BBQ chicken",
+          "Local fish",
+          "Traditional sides"
+        ],
+        "hours": "Monday-Saturday 7:00 AM - 9:00 PM",
+        "pricing": {
+          "range": "Budget-friendly",
+          "fullMeal": "$15-25 USD per person"
+        },
+        "atmosphere": "Authentic local dining experience"
+      },
+      "cathysOceanView": {
+        "name": "Cathy's Ocean View Bar and Grill", 
+        "location": "Frigate Bay",
+        "description": "Scenic restaurant with spectacular ocean views and excellent BBQ",
+        "specialties": [
+          "BBQ chicken",
+          "Grilled seafood",
+          "Rum cocktails",
+          "Sunset dining"
+        ],
+        "hours": "Daily 11:00 AM - 11:00 PM",
+        "pricing": {
+          "range": "Moderate",
+          "fullMeal": "$20-35 USD per person"
+        },
+        "atmosphere": "Scenic views, perfect for sunset dining"
+      },
+      "italCreations": {
+        "name": "Ital Creations",
+        "location": "F.T. Williams Highway (opposite army camp)",
+        "description": "Organic farm setting under mango trees serving vegan Caribbean dishes",
+        "specialties": [
+          "Vegan Caribbean dishes",
+          "Moringa juices",
+          "Daily rotating menu",
+          "Organic produce"
+        ],
+        "hours": "Mon-Fri 7:00 AM - 5:30 PM, Sat 8:00 AM - 1:00 PM",
+        "pricing": {
+          "range": "Budget-friendly",
+          "fullMeal": "$12-20 USD per person"
+        },
+        "atmosphere": "Peaceful farm setting, health-conscious dining"
+      }
+    },
+    "premiumDining": {
+      "marshalls": {
+        "name": "Marshall's Restaurant",
+        "location": "Frigate Bay Resort",
+        "description": "Upscale dining with international cuisine and Caribbean flair",
+        "priceRange": "$45-80 USD per person",
+        "cuisine": "International with Caribbean influences",
+        "atmosphere": "Elegant resort dining with ocean views"
+      },
+      "spiceMill": {
+        "name": "Spice Mill Restaurant",
+        "location": "Cockleshell Beach",
+        "description": "Fine dining restaurant featuring fresh seafood and gourmet Caribbean cuisine",
+        "priceRange": "$50-90 USD per person", 
+        "cuisine": "Gourmet Caribbean and International",
+        "atmosphere": "Romantic beachfront fine dining"
+      },
+      "bluWater": {
+        "name": "Blu Water Restaurant",
+        "location": "Christophe Harbour",
+        "description": "Contemporary fine dining with panoramic ocean views",
+        "priceRange": "$60-120 USD per person",
+        "cuisine": "Contemporary Caribbean and International",
+        "atmosphere": "Modern luxury with stunning marina views"
+      }
+    }
+  },
+  "streetFood": {
+    "bayRoad": {
+      "location": "Bay Road, Basseterre",
+      "description": "The epicenter of street food, especially Friday/Saturday nights",
+      "vendors": [
+        "BBQ vendors grilling jerk chicken, pork, fish, and lobster"
+      ],
+      "bestTimes": "Friday and Saturday evenings"
+    },
+    "independenceSquare": {
+      "location": "Independence Square, Basseterre", 
+      "description": "Lunch vendors with classic Kittitian plates",
+      "specialties": [
+        "Traditional lunch plates",
+        "Local specialties"
+      ]
+    },
+    "publicMarket": {
+      "location": "Public Market, Basseterre",
+      "description": "Breakfast stalls and local drinks",
+      "specialties": [
+        "Saltfish & johnny cakes",
+        "Mauby drinks",
+        "Fresh fruit"
+      ],
+      "bestTimes": "Morning hours"
+    }
+  },
+  "localBeverages": {
+    "mauby": {
+      "name": "Mauby",
+      "description": "Traditional Caribbean drink made from the bark of the mauby tree",
+      "taste": "Bitter-sweet, acquired taste",
+      "availability": "Public Market, local vendors"
+    },
+    "soursop": {
+      "name": "Soursop Juice",
+      "description": "Sweet tropical fruit juice",
+      "availability": "Throughout the island"
+    },
+    "coconutWater": {
+      "name": "Fresh Coconut Water",
+      "description": "Served directly from young coconuts",
+      "availability": "Beach vendors, roadside stands"
+    }
+  }
+}

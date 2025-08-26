@@ -1,0 +1,516 @@
+{
+  "eventsGuide": {
+    "title": "A Comprehensive Guide to Events and Activities in St. Kitts and Nevis",
+    "summary": "The Federation of St. Kitts and Nevis offers a dynamic and varied calendar of events, providing a rich tapestry of experiences that extend beyond the traditional beach vacation.",
+    "lastUpdated": "2024-12-19"
+  },
+  "annualFestivals": {
+    "sugarMas": {
+      "name": "Sugar Mas (St. Kitts & Nevis National Carnival)",
+      "description": "St. Kitts Carnival, known as Sugar Mas, is a unique celebration that blends cultural heritage with the festive spirit of the Christmas and New Year holidays.",
+      "duration": "Approximately six weeks from mid-December to early January",
+      "dates": {
+        "2026": {
+          "start": "December 23, 2025",
+          "end": "January 3, 2026"
+        }
+      },
+      "keyEvents": [
+        {
+          "name": "J'ouvert Morning Experience",
+          "date": "December 26 (Boxing Day)",
+          "description": "Pre-dawn street party where revelers dance to soca music",
+          "audience": "Adults"
+        },
+        {
+          "name": "National Junior Carnival Parade",
+          "date": "Saturday, December 28",
+          "description": "Family-friendly event featuring young revelers in costumes",
+          "audience": "Family-friendly",
+          "divisions": [
+            "SUCRE - symbolizing the island's sweet sugarcane heritage",
+            "NOIR - representing African heritage"
+          ]
+        },
+        {
+          "name": "Grand Carnival Parades",
+          "dates": ["January 1", "January 2"],
+          "description": "Festival culminates with full-costume parades featuring music, dance, and pageantry",
+          "audience": "Multi-generational"
+        }
+      ],
+      "pricing": {
+        "note": "Entry fees not clearly specified - appears to be community-oriented public gatherings",
+        "concessions": {
+          "beer": "$5 USD",
+          "soda": "$2.50 USD"
+        }
+      },
+      "culturalSignificance": "Most anticipated celebration of the year, unique timing coinciding with Christmas and New Year holidays"
+    },
+    "nevisCulturama": {
+      "name": "Nevis Culturama Festival",
+      "description": "Nevis's premier arts and culture festival, celebrating Nevisian heritage through music, dance, and colorful parades",
+      "timing": "Annually from late July to early August",
+      "culturamDay": "Public holiday on the Tuesday after the first Monday in August",
+      "dates": {
+        "2025": {
+          "festival": "July 24 to August 5",
+          "culturamDay": "August 5"
+        },
+        "2026": {
+          "culturamDay": "August 4"
+        }
+      },
+      "keyEvents": [
+        {
+          "name": "Junior Cultural Street Parade",
+          "description": "Key component designed to engage young people in the festivities",
+          "audience": "Family-friendly"
+        }
+      ],
+      "purpose": "Preserve cultural heritage through music, dance, and parades"
+    }
+  },
+  "culinaryEvents": {
+    "restaurantWeek": {
+      "name": "St. Kitts and Nevis Restaurant Week",
+      "description": "10-day culinary celebration featuring theme ingredient challenges for chefs",
+      "dates": {
+        "2025": {
+          "period": "July 17-27, 2025",
+          "themeIngredient": "Tamarind"
+        }
+      },
+      "keyEvents": [
+        {
+          "name": "St. Kitts Grill Fest",
+          "date": "Saturday, July 26, 2025",
+          "time": "1:00 PM to 9:00 PM",
+          "location": "Frigate Bay Lawn",
+          "description": "Family-friendly grilling competition with categories for chicken, fish, pork, and lobster",
+          "admission": "Free",
+          "features": [
+            "Fun-filled Kid's Zone",
+            "Live entertainment",
+            "Local artisan crafts",
+            "Pop-up exhibitions from neighboring Caribbean islands"
+          ],
+          "atmosphere": "Laid-back, joyful, memorable for families"
+        },
+        {
+          "name": "Taste at Twilight",
+          "date": "Sunday, July 27, 2025",
+          "time": "5:00 PM to 9:00 PM",
+          "location": "St. Kitts Eco Park",
+          "description": "Exclusive ticketed event featuring three-course meal with theme ingredient",
+          "features": [
+            "Celebrity chefs participation",
+            "Cocktail reception",
+            "Guided farm tour",
+            "Dinner under the stars"
+          ],
+          "celebrityChefs": ["Chef Nyesha Arrington", "Chef Stephen Marsham"]
+        },
+        {
+          "name": "Tamarind Brunch",
+          "description": "Special brunch event featuring tamarind-inspired dishes"
+        },
+        {
+          "name": "Charity Dinner",
+          "description": "Fundraising dinner event"
+        },
+        {
+          "name": "Cook, Sip, and Glamp Night",
+          "description": "Unique culinary and accommodation experience"
+        }
+      ],
+      "participatingRestaurants": {
+        "tier1": {
+          "price": "$60 USD (EC$162)",
+          "description": "Three-course dinner at luxury resorts and fine dining establishments",
+          "restaurants": [
+            "Park Hyatt's Great House",
+            "Park Hyatt's Fisherman's Village",
+            "Carambola Beach Club",
+            "Marriott's Fire Steak and Seafood Restaurant"
+          ]
+        },
+        "tier2": {
+          "price": "$40 USD (EC$108)",
+          "description": "Three-course dinner at upscale establishments",
+          "restaurants": [
+            "Marshall's Restaurant",
+            "Spice Mill Restaurant",
+            "Serendipity"
+          ]
+        },
+        "tier3": {
+          "price": "$20 USD (EC$54) or less",
+          "description": "Lunch and dinner specials at casual local spots",
+          "restaurants": [
+            "Bohemia Beach Bar",
+            "Jamrock",
+            "Ital Creations"
+          ]
+        }
+      },
+      "strategicOverlap": "Timed to overlap with Nevis Culturama festival for dual-festival experience",
+      "objectives": [
+        "Promote local consumption of homegrown produce",
+        "Encourage healthy and organic eating",
+        "Stimulate business for local eateries during off-season",
+        "Provide marketing boost to small businesses"
+      ]
+    },
+    "nevisMangoFestival": {
+      "name": "Nevis Mango Festival",
+      "description": "Annual celebration of the island's mango fruit with tastings, cocktail competitions, and culinary showcases",
+      "dates": {
+        "2026": "July 3-5"
+      },
+      "schedule": {
+        "friday": {
+          "date": "July 4, 2026",
+          "events": [
+            "Cooking masterclass with celebrity chef",
+            "Mango Mania with activities and competitions",
+            "Pinney's Beach Bar Crawl"
+          ]
+        },
+        "saturday": {
+          "date": "July 5, 2026",
+          "events": [
+            "Passport Food Tour - sample mango-infused dishes at various locations across Nevis"
+          ]
+        },
+        "sunday": {
+          "date": "July 6, 2026",
+          "events": [
+            "For the Love of Mangoes at Malcolm Guishard Recreational Park",
+            "Cooking competition",
+            "Concert"
+          ],
+          "note": "Children under 12 attend free"
+        }
+      }
+    }
+  },
+  "musicFestivals": {
+    "stKittsMusicFestival": {
+      "name": "St. Kitts Music Festival",
+      "description": "Annual music festival known for its blend of musical genres",
+      "timing": "June annually",
+      "location": "Warner Park Stadium in Basseterre",
+      "dates": {
+        "2025": "June 26-28"
+      },
+      "genres": ["Soca", "Dancehall", "Reggae", "R&B", "Afrobeat"],
+      "headliners": {
+        "2025": ["Jennifer Hudson"]
+      }
+    },
+    "communityFestivals": [
+      {
+        "name": "Green Valley Festival",
+        "location": "Cayon",
+        "timing": "May annually",
+        "description": "Annual community festival"
+      },
+      {
+        "name": "Black san' Bang-A-Lang",
+        "location": "Sandy Point",
+        "timing": "April annually",
+        "description": "Annual community festival"
+      },
+      {
+        "name": "Nevis Blues Festival",
+        "location": "Oualie Beach",
+        "timing": "April annually",
+        "description": "Annual musical event"
+      }
+    ]
+  },
+  "sportingEvents": {
+    "nevisMarathon": {
+      "name": "Nevis Marathon & Running Festival",
+      "date": "Saturday, September 6, 2025",
+      "events": [
+        {
+          "name": "Full Marathon",
+          "distance": "26.2 miles"
+        },
+        {
+          "name": "Half Marathon",
+          "distance": "13.1 miles"
+        },
+        {
+          "name": "10K Race",
+          "distance": "10 kilometers"
+        },
+        {
+          "name": "5K Race",
+          "distance": "5 kilometers"
+        }
+      ],
+      "suitability": "Both experienced runners and families"
+    },
+    "crossChannelSwim": {
+      "name": "Nevis to St. Kitts Cross-Channel Swim",
+      "description": "Annual open-water swim race across the 'Narrows' that separate St. Kitts from Nevis",
+      "distance": "4 kilometers (2.5 miles)",
+      "date": "March 28, 2026",
+      "registrationFee": "$250"
+    },
+    "triathlons": [
+      {
+        "name": "St. Kitts Triathlon",
+        "timing": "May annually",
+        "description": "Major athletic event"
+      },
+      {
+        "name": "Tristar111 Nevis Triathlon",
+        "timing": "November annually",
+        "description": "Features three different race formats",
+        "note": "Different from Northwoods Triathlon in Nevis, Minnesota"
+      }
+    ],
+    "cricket": {
+      "name": "Caribbean Premier League (CPL T20)",
+      "location": "Warner Park in Basseterre",
+      "dates": "August 14-21, 2025"
+    }
+  },
+  "nationalCelebrations": [
+    {
+      "name": "MV Christena Disaster Memorial Service",
+      "date": "August 1 annually",
+      "description": "Solemn memorial event"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "September 16",
+      "description": "Public holiday honoring distinguished individuals for their contributions to the nation"
+    },
+    {
+      "name": "Independence Day",
+      "date": "September 19",
+      "description": "Public holiday featuring ceremonial parades and national awards"
+    }
+  ],
+  "weeklyNightlife": [
+    {
+      "venue": "Mr. X's Shiggidy Shack",
+      "location": "The Strip, Frigate Bay",
+      "events": {
+        "thursday": "Beach bonfire and live music",
+        "saturday": "Karaoke"
+      }
+    },
+    {
+      "venue": "The Dock at Timothy Beach Hotel",
+      "events": {
+        "friday": "Karaoke",
+        "sunday": "Live music by local bands"
+      }
+    },
+    {
+      "venue": "Reggae Beach Bar",
+      "location": "Cockleshell Beach",
+      "events": {
+        "friday": "Lobster Fest with special drink offers and live music from local bands"
+      }
+    },
+    {
+      "venue": "Sprat Net Bar and Grill",
+      "events": {
+        "wednesday": "Live music",
+        "saturday": "Live music"
+      }
+    },
+    {
+      "venue": "Club Karma",
+      "description": "Popular nightclub",
+      "events": {
+        "friday": "Nightclub with admission fee",
+        "saturday": "Nightclub with admission fee"
+      }
+    }
+  ],
+  "yearRoundExcursions": {
+    "stKittsScenicRailway": {
+      "name": "St. Kitts Scenic Railway",
+      "nickname": "Sugar Train",
+      "description": "Three-hour historical journey along 30-mile route with views of coastline, villages, and rainforests",
+      "features": [
+        "Dual-level train cars",
+        "Open-air upper deck for panoramic views",
+        "Climate-controlled lower level",
+        "Live Caribbean music",
+        "Informative narration",
+        "Complimentary drinks"
+      ],
+      "pricing": {
+        "range": "$120 - $180 per person",
+        "note": "Pricing varies by provider - cruise line vs. local operator",
+        "providers": [
+          {
+            "name": "Sugar Train Tour",
+            "price": "$130 per person"
+          },
+          {
+            "name": "Saint Kitts Train Trek",
+            "price": "$180 per person"
+          },
+          {
+            "name": "Local Provider Option",
+            "price": "$120 per person"
+          },
+          {
+            "name": "Alternative Provider",
+            "price": "$165 per person"
+          }
+        ]
+      },
+      "reviews": {
+        "positive": "Beautiful scenery, interesting commentary, friendly staff",
+        "negative": "Complaints about loud noise, dirty windows, views of run-down areas",
+        "note": "Mixed reviews - quality dependent on weather, train car, and maintenance"
+      }
+    },
+    "dolphinDiscovery": {
+      "name": "Dolphin Discovery St. Kitts",
+      "description": "Marine activity allowing participants to interact with dolphins in shallow water",
+      "suitability": "All ages, including non-swimmers",
+      "pricing": {
+        "base": "$109 USD",
+        "discount": "10% for booking at least 4 days in advance"
+      },
+      "ageRequirements": {
+        "infants": "1-5 years old - free but must be accompanied by paying adult",
+        "children": "6-12 years old - can participate with paid adult"
+      },
+      "activities": ["Handshakes", "Hugs", "Kisses with dolphins"],
+      "importantNote": "High cost of souvenir photos - personal cameras prohibited, photo packages described as 'ridiculous' and 'very pricey'"
+    },
+    "brimstoneHill": {
+      "name": "Brimstone Hill Fortress National Park",
+      "description": "UNESCO World Heritage Site - one of the best-preserved historical fortifications in the Americas",
+      "historicalSignificance": "Monument to British engineers and enslaved Africans who built it over 100 years",
+      "location": "800 feet above sea level",
+      "views": "Breathtaking coastline views",
+      "pricing": {
+        "adults": "$15.00 USD",
+        "children": "Half price for children 12 and under"
+      }
+    },
+    "downtownScavengerHunt": {
+      "name": "Downtown Basseterre Scavenger Hunt",
+      "description": "Hour-long, competitive, and active game for families guiding participants through city's historical landmarks and colorful buildings",
+      "duration": "1 hour",
+      "pricing": "$35 per person",
+      "suitability": "High family suitability, requires moderate walking",
+      "accessibility": "Not wheelchair accessible",
+      "concept": "Gamified tour transforming passive city tour into engaging, collaborative activity"
+    },
+    "islandSafari": {
+      "name": "Island Safari and Beach Bliss",
+      "description": "Family-friendly excursion exploring rainforest in modified Land Rover before concluding at golden sand beach",
+      "experience": "Bumpy but relaxing and enjoyable day",
+      "vehicle": "Modified Land Rover"
+    }
+  },
+  "familyFriendlyActivities": {
+    "bassetterrePublicMarket": {
+      "name": "Basseterre Public Market",
+      "description": "Vibrant hub of local commerce where families can find island-fresh fruits, vegetables, and day's catch from the sea",
+      "hours": {
+        "mondayToSaturday": "9:00 AM to 7:00 PM",
+        "sunday": "10:00 AM to 5:00 PM"
+      },
+      "offerings": [
+        "Locally sourced goods",
+        "Island-fresh fruits and vegetables",
+        "Fresh seafood from local fishermen"
+      ],
+      "features": ["Online shopping support", "Support for local farmers and fishermen"]
+    },
+    "resortAmenities": {
+      "stKittsMarriott": [
+        "Golf course",
+        "Tennis",
+        "Children's outdoor playground"
+      ],
+      "parkHyattStKitts": [
+        "Kids' club 'Island Fort' with art and craft activities",
+        "Movie Night Under the Stars",
+        "Lawn games",
+        "Guided aquatic activities (snorkeling, paddleboarding)"
+      ],
+      "fourSeasonsNevis": [
+        "Golf course",
+        "Tennis courts",
+        "Kids' club"
+      ]
+    }
+  },
+  "entryRequirements": {
+    "usCitizens": {
+      "passport": "Valid U.S. passport required",
+      "visa": "Not required for stays up to 90 days",
+      "additionalRequirements": [
+        "Onward or return ticket",
+        "Confirmed accommodation"
+      ]
+    },
+    "eTravelAuthorization": {
+      "requirement": "Mandatory for all air and sea passengers",
+      "cost": {
+        "current": "$8.50 USD",
+        "futureIncrease": {
+          "amount": "$17.00 USD",
+          "effectiveDate": "September 1, 2025"
+        }
+      },
+      "method": "Complete via official portal or mobile application"
+    }
+  },
+  "safetyInformation": {
+    "generalAdvice": "Use clearly marked taxis, avoid isolated areas, be aware of surroundings",
+    "crimeContext": "U.S. citizens not specifically targeted, but general precautions recommended similar to major metropolitan areas",
+    "guidedTours": "Professional tours like Island Safari provide safe exploration of less-frequented areas"
+  },
+  "culturalDining": {
+    "authenticRestaurants": [
+      {
+        "name": "Calypso Restaurant",
+        "location": "St. Kitts Marriott Resort",
+        "description": "Popular family dining spot with buffet and à la carte selections using local ingredients"
+      },
+      {
+        "name": "3k's Snackett",
+        "location": "Pond Hill",
+        "description": "Uses locally sourced ingredients"
+      },
+      {
+        "name": "Sprat Net",
+        "description": "No-frills local favorite owned by fishermen, serves day's catch on picnic tables"
+      }
+    ]
+  },
+  "strategicCalendarOverlaps": {
+    "restaurantWeekAndCulturama": {
+      "timing": "Mid to late July overlap",
+      "benefit": "Dual-festival experience allowing culinary and cultural immersion",
+      "description": "Travelers can begin with culinary showcases on St. Kitts and transition to cultural parades on Nevis"
+    },
+    "mangoFestivalLeadIn": {
+      "timing": "Early July Mango Festival precedes Restaurant Week",
+      "benefit": "Extended culinary journey from mango celebration to broader Restaurant Week experience"
+    },
+    "musicFestivalSequence": {
+      "timing": "Late June Music Festival leads into July culinary events",
+      "benefit": "Multi-faceted summer experience combining music, food, and culture"
+    }
+  }
+}

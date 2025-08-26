@@ -1,0 +1,15 @@
+GEMINI_API_KEY = "AIzaSyDpvQM-7jWsUInf6i28XjU7mk9mYx2Sgz0"
+
+# ElevenLabs TTS API
+ELEVENLABS_API_KEY = "sk_64ce640fda1c2391d3664440cd127ac97b7025a5d96ea955"
+
+# Events and Attractions APIs
+EVENTS_API_KEY = "IGPEQNSAPL2MHUMUCYMM"
+GOOGLE_PLACES_API_KEY = "AIzaSyDhsxPdt3Ca3LqTSWwxXwehwYP5gP7SSBQ"
+
+# Travel and Accommodation
+RAPIDAPI_KEY = "f0b3480d05mshd67f505b04986fp12d914jsn0f5a1a9854cd"
+EXPEDIA_HOST = "expedia13.p.rapidapi.com"
+
+# Weather API
+WEATHER_API_KEY = "496992d94df38eac3ce9240ea3596a9d"

@@ -1,0 +1,227 @@
+{
+  "luxuryResorts": {
+    "parkHyatt": {
+      "name": "Park Hyatt St. Kitts",
+      "location": "Banana Bay",
+      "positioning": "Ultra-luxury resort offering world-class amenities and pristine beachfront location",
+      "pricing": {
+        "startingRate": "$800+ USD per night",
+        "season": "Rates vary by season"
+      },
+      "amenities": {
+        "dining": [
+          "Multiple gourmet restaurants",
+          "Beachfront bar",
+          "In-room dining"
+        ],
+        "recreation": [
+          "Private beach",
+          "Infinity pool",
+          "Spa services",
+          "Water sports",
+          "Tennis court"
+        ],
+        "services": [
+          "Concierge services", 
+          "Butler service",
+          "Airport transfers",
+          "Wedding planning"
+        ]
+      },
+      "suitability": "Luxury travelers, honeymooners, special occasions"
+    },
+    "fourSeasons": {
+      "name": "Four Seasons Resort Nevis",
+      "location": "Pinney's Beach, Nevis", 
+      "positioning": "Premier luxury resort on Nevis with championship golf course and pristine beach",
+      "pricing": {
+        "startingRate": "$1000+ USD per night",
+        "season": "Peak season rates significantly higher"
+      },
+      "amenities": {
+        "dining": [
+          "Award-winning restaurants",
+          "Beach grills",
+          "Poolside service"
+        ],
+        "recreation": [
+          "Robert Trent Jones II Golf Course",
+          "Tennis courts",
+          "Spa treatments",
+          "Water sports center",
+          "Kids club"
+        ],
+        "services": [
+          "Personal concierge",
+          "Private jet services",
+          "Yacht charters",
+          "Wedding coordination"
+        ]
+      },
+      "suitability": "Ultra-luxury travelers, golf enthusiasts, families with premium budgets"
+    }
+  },
+  "historicPlantationInns": {
+    "theHermitage": {
+      "name": "The Hermitage Plantation Inn",
+      "location": "St. John's Parish, Nevis",
+      "positioning": "Historic plantation inn offering authentic Caribbean hospitality in a restored sugar estate",
+      "uniqueFeatures": [
+        "300-year-old Great House",
+        "Antique furnishings",
+        "Tropical gardens", 
+        "Horseback riding",
+        "Historical tours"
+      ],
+      "pricing": {
+        "range": "$200-400 USD per night",
+        "includes": "Breakfast and historical ambiance"
+      },
+      "suitability": "History enthusiasts, romantic getaways, cultural travelers"
+    },
+    "montpelierPlantation": {
+      "name": "Montpelier Plantation & Beach",
+      "location": "Nevis",
+      "positioning": "Intimate plantation hotel combining historical charm with modern luxury",
+      "uniqueFeatures": [
+        "17th-century plantation house",
+        "Private beach club",
+        "Tropical gardens",
+        "Intimate dining",
+        "Historical significance"
+      ],
+      "pricing": {
+        "range": "$400-800 USD per night",
+        "includes": "Beach club access and historical experience"
+      },
+      "suitability": "Luxury history buffs, intimate weddings, boutique luxury seekers"
+    }
+  },
+  "midRangeOptions": {
+    "timothyBeachResort": {
+      "name": "Timothy Beach Resort",
+      "location": "Frigate Bay",
+      "positioning": "Popular mid-range resort with excellent beach access and family-friendly amenities",
+      "pricing": {
+        "range": "$150-300 USD per night",
+        "value": "Good value for beachfront location"
+      },
+      "amenities": [
+        "Beachfront location",
+        "Pool and restaurant",
+        "Water sports",
+        "Family-friendly facilities"
+      ],
+      "suitability": "Families, mid-range travelers, beach lovers"
+    },
+    "birdRockBeachResort": {
+      "name": "Bird Rock Beach Resort",
+      "location": "Dieppe Bay",
+      "positioning": "Boutique beach resort with stunning black sand beach and intimate atmosphere",
+      "pricing": {
+        "range": "$200-400 USD per night"
+      },
+      "amenities": [
+        "Black sand beach",
+        "Pool and spa",
+        "Restaurant",
+        "Intimate setting"
+      ],
+      "suitability": "Couples, boutique travelers, unique beach experience"
+    }
+  },
+  "budgetAccommodations": {
+    "oceanTerrace": {
+      "name": "Ocean Terrace Inn",
+      "location": "Basseterre",
+      "positioning": "Historic inn in the heart of Basseterre with harbor views",
+      "pricing": {
+        "range": "$80-150 USD per night"
+      },
+      "amenities": [
+        "Harbor views",
+        "Historic character",
+        "Central location",
+        "Local dining"
+      ],
+      "suitability": "Budget travelers, business visitors, cultural explorers"
+    }
+  },
+  "travelerPersonas": [
+    {
+      "persona": "Luxury Travelers",
+      "recommendedHotels": [
+        "Park Hyatt St. Kitts",
+        "Four Seasons Resort Nevis",
+        "Montpelier Plantation & Beach"
+      ],
+      "keyFeatures": [
+        "Ultra-premium amenities",
+        "Exceptional service",
+        "Exclusive experiences",
+        "Pristine locations"
+      ],
+      "priceRange": "$800-2000+ USD per night"
+    },
+    {
+      "persona": "History Enthusiasts",
+      "recommendedHotels": [
+        "The Hermitage Plantation Inn",
+        "Montpelier Plantation & Beach",
+        "Ocean Terrace Inn"
+      ],
+      "keyFeatures": [
+        "Historical significance",
+        "Authentic architecture",
+        "Cultural experiences",
+        "Heritage tours"
+      ],
+      "priceRange": "$80-800 USD per night"
+    },
+    {
+      "persona": "Family Travelers",
+      "recommendedHotels": [
+        "Timothy Beach Resort",
+        "Four Seasons Resort Nevis",
+        "Bird Rock Beach Resort"
+      ],
+      "keyFeatures": [
+        "Family-friendly amenities",
+        "Safe beach access",
+        "Kids' activities",
+        "Spacious accommodations"
+      ],
+      "priceRange": "$150-1000+ USD per night"
+    },
+    {
+      "persona": "Budget-Conscious Travelers",
+      "recommendedHotels": [
+        "Ocean Terrace Inn",
+        "Local guesthouses",
+        "Timothy Beach Resort (off-season)"
+      ],
+      "keyFeatures": [
+        "Affordable rates",
+        "Good value",
+        "Central locations",
+        "Essential amenities"
+      ],
+      "priceRange": "$80-200 USD per night"
+    },
+    {
+      "persona": "Romantic Couples",
+      "recommendedHotels": [
+        "Montpelier Plantation & Beach",
+        "Park Hyatt St. Kitts", 
+        "Bird Rock Beach Resort"
+      ],
+      "keyFeatures": [
+        "Intimate settings",
+        "Romantic dining",
+        "Spa services",
+        "Beautiful views"
+      ],
+      "priceRange": "$200-1000+ USD per night"
+    }
+  ]
+}
